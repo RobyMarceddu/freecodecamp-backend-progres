@@ -6,7 +6,7 @@ This repository tracks my progress through freeCodeCamp’s backend course. I’
 
 ## Study checklist
 
-- [ ] Node.js basics and the REPL **(currently studying)**
+- [x] Node.js basics and the REPL
 - [ ] npm and `package.json`
 - [ ] HTTP requests and responses
 - [ ] Express routes and middleware
